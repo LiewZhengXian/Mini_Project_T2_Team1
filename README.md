@@ -1,8 +1,7 @@
 # Mega Project
 
-## Download git or use git on visual studio code
+## Download git
 git download link: https://git-scm.com/downloads
-git in vs code tutorial video: https://www.youtube.com/watch?v=i_23KUAEtUM
 
 ## How to get started with git cli
 
