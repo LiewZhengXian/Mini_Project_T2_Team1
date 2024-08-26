@@ -1,0 +1,35 @@
+Chapter 1 Intro
+- Reuse proposal content
+
+Chapter 2 LR
+- Reuse previous
+
+Chapter 3 Proposed method
+- System design
+- Break down of block diagram
+- Implementation issue and challenge
+- timeline, preliminary work no need
+- Chapter 3 and 4 merge together --> Proposed method
+- can experiment 2 or 3 pipeline, and choose best pipeline
+
+Chapter 4 System Implementations
+- hardware, software
+
+Chapter 5 Results & Discussion
+- Performance metrics
+- Comparison with previous work (leverage with paper with same dataset, at least 1)
+- Analysis (Setup test cases), random images pass into pipeline
+   - Strength and weakness
+
+Chapter 6 Conclusion
+- Summarise finding
+- Recommendation/Future works
+
+Presentation focus on c3 and c5
+- 25 minutes, qna 5 mins
+- 6/9 Final Block Diagram
+
+---------------------------------------------------------------------------------------
+50 marks successful detect 100 images, IoU > 0.5 to get 50 marks
+Tabulated>>>
+Filename | RawImage | DetectionResults | IoU>0.5 | Dice
