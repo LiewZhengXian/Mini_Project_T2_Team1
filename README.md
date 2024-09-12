@@ -1,3 +1,3 @@
 # Mega Project
 ## Overview
-This repository contains the code and files for the T2 Team1 project under the UCCC2513 course. The project is focused on [describe the purpose of the project, e.g., data analysis, machine learning, simulation, etc.].
+This repository contains the code and files for the T2 Team1 Traffic Sign Detection project under the UCCC2513 course. The project is focused on experimenting 2 types of denoising methods, which are Gaussian blur and Median blur, and 3 types of edge detection methods, which are Canny Edge Detection, Gabor Filter, and Structured Forest Model for Traffic Sign Detection. At the end, we compares based on the performance and execution time on each pipeline with different denoising method and edge detection method and finally we deduced the best pipeline which is using the Gaussian blur + Structured Forest Model.
