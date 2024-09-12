@@ -11,7 +11,7 @@ In this project, the trained model for Structured Forest is downloaded for edge 
 Download Link: https://github.com/opencv/opencv_extra/blob/5e3a56880fb115e757855f8e01e744c154791144/testdata/cv/ximgproc/model.yml.gz
 #### How to use?
 ##### Setup
-Download and run the **ipynb** files with installed dataset and trained model for Structured Forest in the correct directories name (full_images for 4170 dataset, model.yml for trained model).
+Download and run the **ipynb** files with installed dataset and trained model for Structured Forest in the correct directories name (**full_images** for 4170 dataset, **model.yml** for trained model).
 ##### Dataset Testing
 In main function for each edge detection method, you can choose to test 4170 images with path name **full_images** or 101 chosen images with path name **images** by commenting/uncommenting the **img_dir** variable.
 ##### Interface using Gradio
